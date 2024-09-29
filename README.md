@@ -1,5 +1,6 @@
 # Notorious KVN
 To aprendendo essas parada ai...
+
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/170a2ec4b56a4d2fab35ba6ac488bf34?pvs=16)
 
 ## Conecte-se comigo
